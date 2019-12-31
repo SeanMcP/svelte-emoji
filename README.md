@@ -2,7 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/svelte-emoji.svg)](https://npmjs.com/package/svelte-emoji) [![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/svelte-emoji.svg)](https://npmjs.com/package/svelte-emoji) [![npm](https://img.shields.io/npm/dt/svelte-emoji.svg)](https://npmjs.com/package/svelte-emoji)
 
-☄️ An accessible Emoji component for Svelte applications
+🎀 An accessible Emoji component for Svelte applications
 
 ## Why?
 Emojis can add a light playfulness to your project but require some specific formatting in order to ensure they are accessible for all users. `svelte-emoji`'s reusable `Emoji` component helps you do that quickly and painlessly.
