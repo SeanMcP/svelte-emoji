@@ -3,6 +3,7 @@
   "description": "A reusable Emoji component for Svelte applications",
   "version": "0.1.0",
   "author": "Sean McPherson <sean@seanmcp.com> (https://github.com/seanmcp)",
+  "license": "MIT",
   "svelte": "src/index.svelte",
   "module": "lib/index.mjs",
   "main": "lib/index.js",
