@@ -36,7 +36,8 @@
     "accessible"
   ],
   "files": [
-    "lib"
+    "lib",
+    "src/index.svelte"
   ],
   "jest": {
     "moduleFileExtensions": [
