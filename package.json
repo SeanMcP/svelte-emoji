@@ -1,7 +1,7 @@
 {
   "name": "svelte-emoji",
   "description": "A reusable Emoji component for Svelte applications",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Sean McPherson <sean@seanmcp.com> (https://github.com/seanmcp)",
   "repository": "https://github.com/seanmcp/svelte-emoji",
   "homepage": "https://github.com/seanmcp/svelte-emoji#readme",
