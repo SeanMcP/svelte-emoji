@@ -13,9 +13,9 @@ This component was ported to Svelte from [`a11y-react-emoji`](https://npm.im/a11
 Add `svelte-emoji` to your project:
 
 ```sh
-npm install svelte-emoji
+npm install -D svelte-emoji
 # or
-yarn add svelte-emoji
+yarn add -D svelte-emoji
 ```
 
 ## Use
